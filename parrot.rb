@@ -3,6 +3,6 @@ def parrot(name="Squawk!")
 end
 
 def parrot(phrase)
-  puts "#{phrase}"
+  "#{phrase}"
 end
 
