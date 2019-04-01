@@ -1,5 +1,5 @@
-def parrot(name= "Squawk!", phrase)
-  puts "#{name}" == "#{phrase}"
+def parrot(parrot= "Squawk!", phrase)
+  puts "#{parrot}" == "#{phrase}"
 end
 
 
